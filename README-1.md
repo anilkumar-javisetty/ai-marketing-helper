@@ -1,4 +1,4 @@
-Readme.md# AI Marketing Helper
+README.md# AI Marketing Helper
 
 A simple web tool that uses AI to write marketing content (cold email, Instagram post, WhatsApp offer message, product description) in English, Telugu or Hindi.
 
